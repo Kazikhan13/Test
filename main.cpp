@@ -1,20 +1,10 @@
 #include <iostream>
-#include <string>
-#include <vector>
-#include <list>
-#include <set>
-#include <map>
-#include <array>
 using namespace std;
-
-
-
 
 int main()
 {
+	cout << "Hello World!" << endl;
 	
-
-
 	return 0;
 }
   
